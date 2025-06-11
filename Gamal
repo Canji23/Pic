@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "author": "Goat",
+    "version": "0.0.1",
+    "name": "Canji",
+    "transparency_mode": 3
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Canji23/Pic/54326c258b299c0822c07c37bc39b432072fd387/a8dcddb9001435641c80e3580e25cb1e.jpg",
+    "overlay_alpha": 0,
+    "blur_radius": 1
+  },
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {}
+}
